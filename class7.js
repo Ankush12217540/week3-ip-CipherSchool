@@ -5,6 +5,7 @@ console.log(attribute);
 let hasattribute = document.querySelector("img").hasAttribute("border");
 console.log(hasattribute);
 
+
 let getattribute= document.querySelector("img").getAttribute("src");
 console.log("getattribute");
 
