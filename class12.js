@@ -15,6 +15,7 @@ let something = null;
 console.log(something);
 //undefined
 // let undefined;
+
 // console.log("Undefined", typeof undefined);
 //object
 const object = {
