@@ -53,4 +53,5 @@ function heading(){
     let bgColor="blue"
     document.querySelector(".heading").style.color=bgColor;
 }
+
 heading();
