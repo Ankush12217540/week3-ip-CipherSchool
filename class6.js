@@ -5,6 +5,7 @@ console.log(oldid);
 let className =document.querySelector("header").className;
 console.log(className);
 
+
 let classList =document.querySelector("header").classList;
 console.log(classList);
 
