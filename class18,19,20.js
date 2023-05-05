@@ -15,6 +15,7 @@ class pencilBox{
        this.zipLength={
         left:zipLengthLeft,
         right:zipLengthRight,
+        
         top:zipLengthTop,
        } ;
        this.zipOpen=zipOpen;
