@@ -24,5 +24,6 @@ console.log(oldtype);
 let oldclass =document.getElementsByClassName("header-content");
 console.log(oldclass);
 
+
 let oldid =document.getElementById("header");
 console.log(oldid);
